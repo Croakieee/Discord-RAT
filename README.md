@@ -73,8 +73,3 @@ Available commands are :
 --> !webcampic = Take a picture out of the selected webcam
 --> !grabtokens = Grab all discord tokens on the current pc
 --> !help = This help menu
-```
-
-## Donation
-### Buy me a coffee!
-BTC: bc1qg4zy8w5swc66k9xg29c2x6ennn5cyv2ytlp0a6
