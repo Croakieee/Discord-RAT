@@ -7,10 +7,7 @@ The output file size also around ~75kb!
 
 
 ## **Setup Guide:**
-Download the pre-complied binary's here:
-https://github.com/moom825/Discord-RAT-2.0/releases/download/2.0/release.zip
-https://github.com/moom825/Discord-RAT-2.0/archive/refs/tags/2.0.zip
-https://github.com/moom825/Discord-RAT-2.0/archive/refs/tags/2.0.tar.gz
+
 
 You will first need to register a bot with the Discord developer portal and then add the bot to the Discord server that you want to use to control the bot (make sure the bot has administrator privileges in the Discord server).
 Once the bot is created open "builder.exe" and paste the token in, and paste the guild ID of where you invited the bot
