@@ -67,8 +67,7 @@ Available commands are :
 --> !webcampic = Take a picture out of the selected webcam
 --> !grabtokens = Grab all discord tokens on the current pc
 --> !help = This help menu
-We would like to inform you that the program is temporarily out of service. We apologize for any inconvenience this may cause and appreciate your understanding and patience.
 
-We are working diligently to resolve the issue and will restore the program as soon as possible.
 
-https://github.com/dotnet/project-system/issues/948
+We would like to inform you that the program is may be temporarily out of service.
+| https://github.com/dotnet/project-system/issues/948 |
